@@ -1,0 +1,107 @@
+default:
+  id: default
+  group: order
+  label: 'Default'
+  states:
+    draft:
+      label: Draft
+    completed:
+      label: Completed
+    canceled:
+      label: Canceled
+  transitions:
+    place:
+      label: 'Place order'
+      from: [draft]
+      to: completed
+    cancel:
+      label: 'Cancel order'
+      from: [draft]
+      to:   canceled
+
+default_validation:
+  id: default_validation
+  group: order
+  label: 'Default, with validation'
+  states:
+    draft:
+      label: Draft
+    validation:
+      label: Validation
+    completed:
+      label: Completed
+    canceled:
+      label: Canceled
+  transitions:
+    place:
+      label: 'Place order'
+      from: [draft]
+      to:   validation
+    validate:
+      label: 'Validate order'
+      from: [validation]
+      to: completed
+    cancel:
+      label: 'Cancel order'
+      from: [draft, validation]
+      to:   canceled
+
+fulfillment:
+  id: fulfillment
+  group: order
+  label: 'Fulfillment'
+  states:
+    draft:
+      label: Draft
+    fulfillment:
+      label: Fulfillment
+    completed:
+      label: Completed
+    canceled:
+      label: Canceled
+  transitions:
+    place:
+      label: 'Place order'
+      from: [draft]
+      to:   fulfillment
+    fulfill:
+      label: 'Fulfill order'
+      from: [fulfillment]
+      to: completed
+    cancel:
+      label: 'Cancel order'
+      from: [draft, fulfillment]
+      to:   canceled
+
+fulfillment_validation:
+  id: fulfillment_validation
+  group: order
+  label: 'Fulfillment, with validation'
+  states:
+    draft:
+      label: Draft
+    validation:
+      label: Validation
+    fulfillment:
+      label: Fulfillment
+    completed:
+      label: Completed
+    canceled:
+      label: Canceled
+  transitions:
+    place:
+      label: 'Place order'
+      from: [draft]
+      to:   validation
+    validate:
+      label: 'Validate order'
+      from: [validation]
+      to:   fulfillment
+    fulfill:
+      label: 'Fulfill order'
+      from: [fulfillment]
+      to: completed
+    cancel:
+      label: 'Cancel order'
+      from: [draft, validation, fulfillment]
+      to:   canceled
