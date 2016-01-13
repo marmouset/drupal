@@ -1,5 +1,5 @@
 foobar:
-  pattern: 'admin/foobar'
+  path: 'admin/foobar'
   defaults:
     _content: '\Drupal\foobar\Controller\FoobarController::foobarPage'
   requirements:
