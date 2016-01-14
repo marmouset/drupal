@@ -9,7 +9,7 @@ function foobar_menu() {
         'title' => 'Foobar',
         'description' => 'This is the demo foobar page.',
         // The name of the route from foobar.routing.yml
-        'route_name' => 'foobar',
+        'route' => 'foobar',
     );
     return $items;
 }

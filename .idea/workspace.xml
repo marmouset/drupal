@@ -1,7 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e885b5a3-b0db-479f-9dcd-3296cfb3a0fe" name="Default" comment="" />
+    <list default="true" id="e885b5a3-b0db-479f-9dcd-3296cfb3a0fe" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/foobar/src/Controller/FoobarController.php" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_addtoany-standard.html.twig_626260e30cc8b599218e930032ae8fdc9b30e5cdc2d42d0179444076ed4f8bf4\fa01c145d17fdbaa7992390e86760808b8271890b7284fe5252e0d64a1095c43.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_admin-block-content.html.twig_3c11f9e4ee677a7c6dbde09cc68be1be43a5d1f3e75fc8942a3750f6325c49c3\a448b2bc38dd33bb9ece158c9108982d4b9ddc8e4100271f0dfffe7c14687c74.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_block--local-actions-block.html.twig_4d6f948eb0827e0ff8ec77309b312ce5118423e69fdf04106ec75e5b32cf3f4a\7fcbbb8011beb5af464943986e995ece382c6b6f80c032fba8b53e11ff3264b4.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_block--local-tasks-block.html.twig_96d75f73275856716405e9f9b05cbf009299de5b2b954b4b6d4ffbe09396fe14\21a933966f6be36a627b08d0c49a68d13d38ca44d2675b743664b5932d084966.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_block--search-form-block.html.twig_fdd688fd5753b4df30d5a00da629a5854e9c21de3f36582d2365b6014aa3ac09\8837ba9d3163ea0400899dffcf2f69ae8af113217fd64f9f45c2bcb3cb0c1912.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_block--search-form-block.html.twig_fecea7036ae54650648543c5f01a37f863aaad7d916c8c9ab981a07d9aeb1572\921afd71794c48b701ea5e56294826f5434d5abaf13d91e7ed11c416368f8e5a.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_block--system-branding-block.html.twig_84beb2d7a0d259acbbaed8e818ce7671951cf85a7dc5c610e96fd7cad47157cd\8ce72f0b9693ecc818e9c43d9a62469b17ed0f03741e68c079b01fc87455eff6.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_block--system-menu-block.html.twig_60d63b4a38c69234737f3aca9138b1451d2a6ed250a0d9f5767f9079d1f53e21\d857a8c4ef9aad2ebff1891d79e535412dc3257dce3f7923ae4d5b261f571994.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_block--system-menu-block.html.twig_8ea6f0ae4e5dc1c4bad38fd485aaf1fa3f3223a79a1cf137e00f61ff77e58a1f\062cde3d8d0aa82438237d2adcefc5fa1011613f5a359ba962f2c727823cd6ee.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_block--system-messages-block.html.twig_4e794d699ea316cf6cb7ba0137fd471bfd8d986e6e3a37f2c452ede47cf49836\0714ed56460ce84a0cfdce8d8da1848bdb78eb4ed9d37a6d4eced41d935969a1.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_block.html.twig_349f12e10a88862a80883dc857b6c37f52abd5d726279ec21c6b343985eab587\e8a1858ffa4efef08fad5f7932774d3d5d5e334bdcb0d160e0ac00af64a51adb.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_block.html.twig_48fc8a09700e00fddf71dace824007c40663fc78aeaa792a039ce0d0fb0a6ec7\24359538c3e5891068515e04d966c556eac3644b2c5dfe9d1753f350df13083b.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_block.html.twig_c213b0bc9677f637f9509acdc60fe892fcfe0776ec3507787427c696569f3b85\feb7d71e655923638b32d2c7cc22603d1e422687458f9565a553fbe33fe74b28.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_block.html.twig_eb7ef5f4965ad09005582478d282f700934529d64761dfb734014fdfcdcd1a36\11c7e13fdd42d7ddced0d99ad420723188809cd4e99b53e57c25f3986b88b63e.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_block.html.twig_f708435eb4691e2264ad01af0a04b218d78aea765d71b53932fa780ac3437c59\56f537e89a623b1af067bae358e410a6d236032ceded547b35a02074383a5435.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_breadcrumb.html.twig_411a682ce92da7a684b4c5dde8788b0bc775f40033653dae815de0478baa4f58\21dcc06921c9d61a42d787352584fd65ff68eb06762a3aa404b483b0661493af.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_checkboxes.html.twig_8cfb008413a28e53f3af1293705c52a9fc031be1aef77dda91ae572a3f3ad59e\ba88f3ac7841bbf3b8640d18d2ce56d896d28c5dd80a9cb7e62eb9286174d2b0.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_confirm-form.html.twig_f207b427e125a252bf15aa63fc54e7ed4f9e7f2b494af1f8379c6aeb152d6246\8555664860f68eb2819b62d616f431877bf70397069ed27449a9bb7a38ba7c6d.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_container.html.twig_4342b3a74024d098a291bc1edbb38e903828287563a527d332a0dc110a300c83\25288464ecd17a7488954d2a8233d777db4fb3c4b02f73976e71abc2f15eafd5.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_datetime-form.html.twig_b769ddb6ef7670d351f26cf88d6272ac7d8479bf3791b40583ce24f31a6bf7bf\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_datetime-form.html.twig_b769ddb6ef7670d351f26cf88d6272ac7d8479bf3791b40583ce24f31a6bf7bf\f072299d2ad5cda1fa219464beab4458451f6528f214771a20724edb4e0a5248.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_datetime-wrapper.html.twig_4276b1f998432a61c90f52824942d58dec314413d1980dc48adde6ea64f5e6e5\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_datetime-wrapper.html.twig_4276b1f998432a61c90f52824942d58dec314413d1980dc48adde6ea64f5e6e5\a9e5a6ba45dd872bbb90462c1d01aab06700f9b8bb0d0d39421198a8603e36d5.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_details.html.twig_d4c96f57ce85235b3fbc5dc83dc3bc3ea5bf0984c479ad5099362a0ea12498f6\179d4dde4d346d33e095ea982b1467e838dc4d1117fe5abbc2d7fac93d41bcc7.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_dropbutton-wrapper.html.twig_4e67d0f06df7f24bfe738a193d74f9eb2905214a328a839165219e18843b228e\160451cdd5ecc94139a6fc11ece919dbd0a30d15a360dd184c1ef588b6682fb7.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_field--node--created.html.twig_e4fe8ac74503d2f4792f7f3dbcf3a786d62909435c22c4821d91a742f1b0ecc2\464741b834f73562982f09178ca72ffa3d22c478f1b2587288b76bbf4b780a8a.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_field--node--title.html.twig_3b2fe3f4bd11ff73c03b5d02daa88225009c862354b1518ffc00cc2da4c43428\fb09c66d09d01202b3fa84fa2c02fe0d07f22d5463302aa8baf03fba0419adbd.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_field--node--uid.html.twig_e12d157dc74f05f6fa56aba5a66c5cec18cec199000f2590cc177ff73a1e5389\ba255ba99cb7d989ee47b648864d276ec0c12a8dbc164c67dd6c6dfcd0276d5c.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_field--text-with-summary.html.twig_4ce696b166ed360d4d0a33318d50e906823fdd12c9779c3343cd864da088f92f\4e094b1816d0acfab53b4ae6422d076bdecdd931c66b893c9056c145f71f51b5.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_field--text.html.twig_411a2445287a1421ea433a281bfd570c3051bee0c4fda78f38ab7d3f34cc9f68\996e87f7c40e1cd05f78a7f670764659dc0fc902c570797f6542f7a66b638c8e.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_field-multiple-value-form.html.twig_261db64006e9924ed0fe6cb6489b91c3d161a25a6430a6129babfd6bab4742f8\d4d2b15f6814c601bf7d03203f752aef4d4d9d5a1f24951b5c4d6b4aa358a8ec.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_field.html.twig_b20d1a34364dac1daa2576502a1d41c95a3ec4f4a1f99aeb01aded02857ad4c3\e3ff61ee48e4fa37f044bb1ab8936c239ac1c65a8ffb241585b910db9b4c8810.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_fieldset.html.twig_d15a01ccde119c16aafadb1e8a2e72395474e417f260fd6ace6fdc575206520c\9f75a17e08dce9136b6c96775d5930c30d0ea6ffca469cc0665b4131b7630ecc.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_filter-guidelines.html.twig_394ffc8a470f4b45bcd2358ad0769fec987887843efb6451fbc6d2573c199594\aada597a65a5eaa5569fe35190559a3498283ab368f04d095a8acbc5323615bb.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_filter-tips.html.twig_5492517c56850ff91e7ecc56ac15687cf37badb5a619eff74f73d6e2d77a0c4d\520ad0f645ac0e33bd162c595b732c51b5ecb83e927d52eafbfac70588f4cd97.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_form--search-block-form.html.twig_508c0a37820cda511ca0b6ada106a138763a99cadba861699b27c4dd528673b9\663f9d3dff87183ca04a1b9ad4fdb4887c5ecced4ae731ab32b87f711b5f8509.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_form-element-label.html.twig_02c2a0de894d2e24e72f0dbe8211f9f1c496226a6bdcf88ec2c145e13f8235e6\9f96d7cef614d7a0780b46ef5c1be0b379113c06991dfc1716b68ed97844da8a.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_form-element.html.twig_a71218d93b137053a6b24cc102ef8498ac186e5e42d94c098fa5b2f5614a08c2\9e1e8c216bf4014a0533815818c6553816cc8b16108799a29b6452e022a8d882.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_form.html.twig_4d77ae5b5747881f0ab13149dddccdcc6f30fbeaba7e93c3da1753a02eadd98b\021246d8d7678c8441fc7221606acb47f8741b6a1d1d5b6a0ef345e6f0b61d2f.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_html.html.twig_4e7adf6ceffe27be7ad2ace071e839f12369b0911935704c06abcdb4ae9d8845\2413c352738acab55ce508b3c1edf0a731e0513b7592476ed884a9b048ca8100.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_inline-template_4fec6157f4cd349de23bbc0a2b6ae697c88ec2a9daec1a11717a33011ed0f10c\0aac60fdc5de673a0021e3ccd950dbca1f86dad7b0d70f7d37fea83ca7097411.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_inline-template_7fd323ae5db27fc46adb302bd27e258709850be984d1578d2d92d6fd0584d378\fc4110d805e9997e048670f7d5dce4e813acaf57168954c5a9e82eb025d6d196.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_input.html.twig_88604cc22e9a8265addb175e31015c6f75605d15081b162b79aa5e01d45d22f2\82f7a83b68bb27f730732592c3ef095c0addf1397dea1f7eca88762d97a13558.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_item-list.html.twig_afa8ae0fb8acd110b27a47617fa10e5fc24328314bdbefebe686f33dbc5d0841\2da7289037e0a517632b957c4395137ed125a3f7acf8c2bf34016d9d8c45563e.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_links--node.html.twig_b68b9c583cfb23c6bf94390861c7fef7c95e8d91a84ee48e1abb76fc1bfd65e8\51bc4cb2545f6ef61695ef061a1bd71ebc29ee8aac3a26aac5deaf887ab71d2b.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_links.html.twig_1ff3d59a8af2218e36bad7b798c6a9e3c462eadfb416777e88a07eced1f51eaf\196cded89bb30798a7212cd611a4cb3af0647203428b131c30a5d99226f0b84e.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_links.html.twig_280f5435f18f3c001f80283fc1ec85b219380f47112fcbf1405c9b1b350cfb91\4f69087a362b1a6bbc87cf73777388b1246a3d4628c0ef10427d20a6955977b5.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_menu--toolbar.html.twig_915e24753d58e51572ef72cda60cca3f947dd3a4203c276ec22eb93f782c895e\fdccacf869d226cb98f22867f86cf108a2aec1195d6a516f29836aa2226e2f94.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_menu-local-action.html.twig_659cd2b46e16d5306b36ae88948bf91aa7543a2c4037fd0592ef2909606e9556\213554cec290c56cd7a65796bbaec2bc4adc378711b9c30a75deb7e1c3393301.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_menu-local-task.html.twig_5e8c3f81a48c61318316e00201c002d4d981f898ea3ba55befd6935ab4f33127\133ce083fe16f88987b69f7f4e1d0e9abe644dd222f8071d3fc2741520442081.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_menu-local-tasks.html.twig_dd4fcfaa9ebcc9bc4be4107c96bace3cd32a3ef530971bd6d4c0e4b9c02ee5b9\efb229dcf0608dd32b550d5887b3a2a662d7b1dd2a6c63f565ecee78da91a768.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_menu.html.twig_2b9fa22080d7d8bce9d2806ec33681c9cde2fb0753163fb8db5d14fd2b5c2600\60f2276c105be4bca9ad47f1cbdb14be854407a74ed4563997d7a00f913ba868.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_node-add-list.html.twig_163a2ffd3d6eaa94a5720f900c56c58821f1ef99e062d1df1d8035fe34cbf1f6\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_node-add-list.html.twig_163a2ffd3d6eaa94a5720f900c56c58821f1ef99e062d1df1d8035fe34cbf1f6\db53c7f5557d310d8096da067694e16df63cbc3a57b1dfd42a8f7325a48a99c8.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_node-edit-form.html.twig_964fb287630a99fe95e02f050ce9f0ea914048fcdaf56b4bdf412dfa46ccdbbe\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_node-edit-form.html.twig_964fb287630a99fe95e02f050ce9f0ea914048fcdaf56b4bdf412dfa46ccdbbe\0375f0c6b2d00bab6607cbbd3c3901247fb29db943699d8a431dba87311b7279.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_node.html.twig_3913a79c9bab881ad24f2bdc9e8e9e70a32b10b5e62d784692f3ea77b2ade2ff\30a9f3cd9da047da98772e77a1591bb569d335114daa8d76c8878810230e5e47.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_page-title.html.twig_05cf10c7de772c4d62a6647143572b1fda9df7e1c029922a13f87dad4373a3ce\66f863329290f6a2c20c9bf34ece82ab62b6d5d520b319c20a7e88f1c5a149de.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_page-title.html.twig_1cfbafceb59a74a6859c7c81182fe7288a8d8f3110ea95cc88d10cf123e5ab43\e00eaaceeff1c17fa59d0ce008876d828bdcf3fe417d8fa6c7ad5a3071c10456.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_page.html.twig_596a015279bbe0e4a09e5adc0c4a794f86ece55c8aa322a2f2501e348e7ace7a\5ac832332bccbd19a9723d732b12d31206a7baf50119694e28a51b361a97fa0a.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_page.html.twig_d999f2518300262f752b078dbcf09daf8ab0c62d326acb72d3ed70cda615d0cd\de6841f904c8b1fbcf1c5d208da375a45f79cc02a4edc732065732ebee851fbe.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_pager.html.twig_bc5fd03c71544844386cf5f160e989cebee98ae57d04a73fd90f7e0325b760ff\212f4f6b591dc0cc97ec78eaea1dd9a8dcfe844aea8e75fef4f0f4c14f8ba2c9.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_radios.html.twig_cbbd0ee2dc58a829a6d50f92bcab0fb3bca14ea9e378db67a882362e8ef054c2\3cd543397e4c84319f3753590edb49c446702a9a2157d690a1dabb5097adca4c.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_region--header.html.twig_a6dcd4b21d05f49aaa26753cb2d34cdea1a2426f577391c3386f84b0f4c9e966\c4b58d54d7aef45536d5b6bdc6f842dcd27b2cd2baa4fa92bf4de014a623d1c8.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_region.html.twig_311ddf326c3de6a6e9b8316f6f2b88f501e51bf84e82b8fa0d148f094acefd22\2838d110ab9c5e5222820e1adcb14308f12b1b97b3938c12d6bb0b8a01ff1e8e.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_region.html.twig_a94ad1a01e3e0d0a3fbd3967e76153ec730f3f3083321cc51acdd604c5773754\2cffc288de671c654237f7a74621d4b3794085d6a63d5f8430db2f2178e86f7a.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_select.html.twig_50ed090544e52e38a49f93ca7a49a9259cef71a57efc031d244ec092a9a1fca1\8383683fe5ad7f299b467961e8ea0e33d895120188de04d10a995ab4958b3997.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_status-messages.html.twig_bae2126a321e4487fac35e15a646a3f7fdd5684081f5441c875f3e037911f4c4\fda71640de557b99a64b2884935aa323f1587d6283f5a4dc3c05af92ce2f0c00.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_status-messages.html.twig_e74be7b40f90010b832d9b03eb9e8f3c4bd8562bdc455d136b5c78da72c1cc82\9058d84e9a06e73c4faf1f8ed4c8e96b5012b635e5c5d93bb267803ad4e90d3f.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_system-config-form.html.twig_0956cc8586ad9a03072897f504dc1a93106e10931dd798b586964da3c6c9922e\01bedf53458efeed919bc6d11a88ff62f86f96bad29b7de3d89d4a64556f880a.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_system-modules-details.html.twig_559f7fe9d9f12f896048b1ab9193eff8aec2550f30fae2f6ca783097592de029\12761ebcd313769d13a8d12b135f11b0997897d911bd0da122265894d9ef185e.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_table.html.twig_0f7ff926dcd4c85802d3c139a7b7334134dcf1433a6de8dbafa78436789e1ddc\7323e62e4d40977508dbb74d70d0c5daa46805f12979acb278837ec6d06d5d6b.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_tablesort-indicator.html.twig_bca475294784ea9fc6c400f1709eb556acee892575bbc61259528e35a2a0f404\f1b1db89dd9edc776ec2fdc7530807c351daa97aaea4d00d82f582f1948764dd.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_text-format-wrapper.html.twig_bba3903536d8601cf02ec85d5f7cc112043cfca89006bfa541c48baee723ede7\7cb980d50d28b226a98b478c9c4e1459377555ab84c4b881418626032c64438b.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_textarea.html.twig_d95fab7c833f6db0ccc7c1d89f532e8d9c7b2a561e6bd307457a3d71c2560070\2041b1ae1910602194f5e50a7467b51eae3c0798302d052ebbd1c79acdc88f48.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_toolbar.html.twig_eb2f4542e20160d511896b49a2eaf48947b7cc63fcf96cf4f9c2efdd02ab8101\e93b13e2251dee41334b8484889e2216ab83f3a07ebf51967d157ed93a0f9a99.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_user.html.twig_f2668c5e9c11fd747a05fef89d76e486825b3f94e1aec7945f7121b3c38bfd0a\2662f280b92023db1c5aa4673309f9aeaef070a84c55dc1309f153575ce2b4de.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_username.html.twig_62ff84db8c5990d008c58445d89c98506636741184ff8dd9494ab87385e7b732\fc9435fbf404b7177983c8fef5082d01bf9f7836050619f1ba4d1309b69b7f2c.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_views-exposed-form.html.twig_b7f018f583ff065a363674da5566139e9317f99c5a30efd87e8bdfedc14ff2e8\9d6970561a6fc3719ae704de79cb7cdaa01d09cb6363988b3e738aa0187b8eb7.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_views-view-field.html.twig_09af3384b9d4cabcd76c36f7ea579aa7e998c485570752286aa53d9c2d3779f5\45eab0d5ccb8c9711e9bc3db3a3c616d6363a7346556ceeea6f761fb1a428b0d.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_views-view-grid.html.twig_3804404b8eac0dddb3c677c9af05402ff5667aba71edf61c06cc9e2a99c19b3e\78a890449f578db035d08af12b883d4648939d09800a1a35d00dc7896451154e.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_views-view-table.html.twig_e0648a72338ca8df3fe4242b88946999b86b3c0bd925f1f5421ee57aa078e15f\cb932e31f3d192efe2e61d064cd81cec4bb08313c6eecf5e44a14e9489757571.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Utilitaires\wamp2.5\www\drupal\sites\default\files\php\twig\97d91d73_views-view.html.twig_e7a94044a8b4a15636419a296843d08ac6fc553d4e637efbdc9808f46f9215e9\1c933395b8ecf896aa4c3fdcb7de7cbe8fea1331febc36a087b45e57d9fdc1ec.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/foobar/foobar.module" afterPath="$PROJECT_DIR$/modules/foobar/foobar.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="drupal.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -25,57 +113,94 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="block--search-form-block.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/themes/bartik/templates/block--search-form-block.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.423077">
-              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/themes/bartik/css/layout.css">
+      <file leaf-file-name="foobar.info.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/foobar/foobar.info.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/themes/bartik/css/components/menu.css">
+      <file leaf-file-name="FoobarController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/foobar/src/Controller/FoobarController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="e#44#86#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="foobar.module" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/foobar/foobar.module">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="block.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/core/themes/bartik/css/components/block.css">
+      <file leaf-file-name="foobar.routing.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/foobar/foobar.routing.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13033953">
-              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="block--system-menu-block.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/themes/bartik/templates/block--system-menu-block.html.twig">
+      <file leaf-file-name="example.routing.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/custom/example/example.routing.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.11308204">
+              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExampleController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/custom/example/src/Controller/ExampleController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example.info.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/custom/example/example.info.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example.module" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/custom/example/example.module">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+              <folding>
+                <element signature="e#6#85#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -88,11 +213,16 @@
         <option value="$PROJECT_DIR$/modules/hello_world/hello_world.links.menu.yml" />
         <option value="$PROJECT_DIR$/modules/hello_world/hello_world.module" />
         <option value="$PROJECT_DIR$/modules/custom/example/example.info.yml" />
-        <option value="$PROJECT_DIR$/modules/custom/example/example.routing.yml" />
         <option value="$PROJECT_DIR$/modules/custom/example/src/Controller/ExampleController.php" />
-        <option value="$PROJECT_DIR$/modules/custom/example/example.module" />
         <option value="$PROJECT_DIR$/core/themes/bartik/templates/block--search-form-block.html.twig" />
         <option value="$PROJECT_DIR$/core/themes/bartik/css/components/block.css" />
+        <option value="$PROJECT_DIR$/modules/custom/foobar/foobar.info.yml" />
+        <option value="$PROJECT_DIR$/modules/custom/foobar/lib/Drupal/foobar/Controller/FoobarController.php" />
+        <option value="$PROJECT_DIR$/modules/foobar/lib/Drupal/foobar/Controller/FoobarController.php" />
+        <option value="$PROJECT_DIR$/modules/foobar/foobar.routing.yml" />
+        <option value="$PROJECT_DIR$/modules/foobar/foobar.module" />
+        <option value="$PROJECT_DIR$/modules/custom/example/example.module" />
+        <option value="$PROJECT_DIR$/modules/custom/example/example.routing.yml" />
       </list>
     </option>
   </component>
@@ -110,10 +240,10 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="width" value="1924" />
+    <option name="height" value="1084" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -136,7 +266,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -165,7 +295,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
+              <option name="myItemId" value="sites" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -180,10 +310,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_gmap" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -239,145 +365,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bartik" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bartik" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bartik" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bartik" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -387,6 +377,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Utilitaires\wamp2.5\www\drupal\modules\foobar\src\Controller" />
       <recent name="D:\Utilitaires\wamp2.5\www\drupal\modules" />
     </key>
   </component>
@@ -429,16 +420,29 @@
       <option name="number" value="Default" />
       <updated>1451481231844</updated>
     </task>
+    <task id="LOCAL-00001" summary="Module foobar en création">
+      <created>1452677668626</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1452677668626</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Module foobar en création">
+      <created>1452680163946</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1452680163946</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1924" height="1084" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21321961" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16577253" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938644" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -446,6 +450,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -467,6 +472,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Module foobar en création" />
+    <MESSAGE value="Tous les soucis de placement de bloc réglés" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tous les soucis de placement de bloc réglés" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -480,6 +490,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/example/example.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding>
+            <element signature="e#6#85#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/themes/bartik/templates/block--search-form-block.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/themes/bartik/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/themes/bartik/css/components/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/themes/bartik/css/components/block.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/default.services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/development.services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/themes/bartik/templates/block--system-menu-block.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/example/example.info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/modules/custom/example/example.routing.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -501,7 +592,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#6#85#0#PHP" expanded="false" />
+            <element signature="e#6#85#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -535,7 +626,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#6#85#0#PHP" expanded="false" />
+            <element signature="e#6#85#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -569,7 +660,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#6#85#0#PHP" expanded="false" />
+            <element signature="e#6#85#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -603,7 +694,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#6#85#0#PHP" expanded="false" />
+            <element signature="e#6#85#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -615,53 +706,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/custom/example/example.module">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15315315">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <element signature="e#6#85#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/custom/example/src/Controller/ExampleController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.061936937">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/custom/example/example.routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.111597374">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/custom/example/example.info.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09299781">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/themes/bartik/templates/block--system-menu-block.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/themes/bartik/templates/block--search-form-block.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.423077">
+        <state vertical-scroll-proportion="0.0">
           <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -669,7 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -677,14 +731,151 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/themes/bartik/css/components/block.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13033953">
+        <state vertical-scroll-proportion="0.0">
           <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/default.services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/example.sites.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0266204">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.40112358">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/development.services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/dependency-injection/ContainerInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27836257">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/foobar/src/Controller/FoobarController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#44#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/foobar/foobar.routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/foobar/foobar.info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/foobar/foobar.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/example/src/Controller/ExampleController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/example/example.info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/example/example.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding>
+            <element signature="e#6#85#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/example/example.routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11308204">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
           <folding />
         </state>
       </provider>
